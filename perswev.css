@@ -1,0 +1,728 @@
+*{padding:0px;margin:0px;}padding-l{padding:0px;margin:0px;}
+/*start*/
+	div#hell {
+    background-image: linear-gradient(#00000066,#0000002b), linear-gradient(#00000038,#00000030), url(nessa.png);
+    background-size: cover;
+    height: 623px;
+    width: 100%;
+    overflow: hidden;
+    }
+    div#allname {
+    width: 1077px;
+    margin-left: 227px;
+    margin: auto;
+    margin-top: 97px;
+}
+    div#logo {}
+
+div#menuBar {
+    width: 1300px;
+    margin: auto;
+    display: block;
+    overflow: hidden;
+    margin-top: 9px;
+}
+
+div#logo {float: left;}
+
+nav#menub {
+    width: 498px;
+    float: right;
+    margin-right: 46px;
+    font-family: arial;
+    margin-top: 10px;
+}
+
+li {}
+
+ul#Firstul li {
+    display: inline-block;
+    margin-top: 14px;
+    margin: 4px 9px;
+}
+
+ul#Firstul li a {text-decoration: none;color: white;}
+
+div#logo {}
+
+span#logos {}
+
+span#logos {
+    color: white;
+    display: block;
+    width: 154px;
+    text-align: center;
+    font-size: 30px;
+    margin-left: 61px;
+    font-family: cursive;
+    text-shadow: 4px 0px 5px white;
+    font-weight: bold;
+}
+
+
+
+div#myName h1 {
+    display: inline-block;
+    font-size: 62px;
+    margin-right: 37px;
+}
+
+h1#myNfh {
+    display: block;
+    color: white;
+}
+
+h1#myNsh {
+    display: block;
+    color: #ff39bb;
+}
+
+div#myName {
+    width: 624px;
+}
+/*this typed jstype*/
+div#typeds {
+    color: white;
+    font-size: 32px;
+    margin-top: 14px;
+    width: 450px;
+    margin-left: 61px;
+}
+/*==========================icons seeting=============================*/
+
+div#icons {
+    width: 233px;
+    margin: auto;
+    display: block;
+    margin-top: 15px;
+    margin-left: 58px;
+}
+
+ul#icns li {
+    display: inline-block;
+    margin-right: 7px;
+}
+
+
+ul#icns li a {
+    width: 20px;
+    height: 20px;
+    display: block;
+    color: white;
+    padding: 6px;
+    border: 1px solid white;
+    border-radius: 50%;
+}
+
+ul#icns li a i {
+    margin-top: 2px;
+    margin-left: 3px;
+}
+div#arob {
+	cursor: pointer;
+	display: block;
+	color: #bababa;
+	margin-top: 226px;
+	margin-left: 654px;
+	width: 28px;
+	text-align: center;
+	border-left: 1px solid #3c3c3c;
+	border-right: 1px solid #3c3c3c;
+	padding: 1px 3px;
+	height: 46px;
+}
+
+div#arob i {
+    font-size: 27px;
+}
+/*==========================arrow key animation=============================*/
+#arob i{
+  
+  position: relative;
+  animation: myfirst 2s  infinite alternate;
+}
+
+@keyframes myfirst {
+
+  25%  { top:10px;}
+  
+  75% 	{top:30px;}
+  
+}
+/*==========================second pagess all content=============================*/
+div#secondpage {
+    width: 1223px;
+    margin: auto;
+    margin-top: 34px;
+    padding-bottom: 107px;
+    padding-top: 10px;
+}
+div#imgpr {
+    width: 576px;
+    overflow: hidden;
+    display: block;
+    float: left;
+}
+
+div#imgpr img {
+    width: 100%;
+}
+
+h1#abt {
+    display: block;
+    width: 281px;
+    margin-top: 19px;
+    margin-left: 517px;
+    color: #c1ab51;
+    font-size: 33px;
+    overflow: hidden;
+    margin-bottom: 42px;
+}
+
+h1#hels {
+    display: block;
+    width: 300px;
+}
+
+div#prapa {
+    width: 573px;
+    float: right;
+    margin-right: 17px;
+}
+div#prapa h1 {
+    display: inline-block;
+    margin-top: -7px;
+    margin-bottom: 36px;
+}
+
+h1#hels {
+    width: 99px;
+    display: block;
+}
+
+h1#sechs {
+    display: block;
+    width: 222px;
+    color: #c1ab51;
+}
+
+h1#sechs {}
+
+span#paras {
+    display: block;
+    font-size: 19px;
+    font-family: arial;
+    margin-top: 2px;
+    margin-bottom: -6px;
+}
+
+span#sespa {
+    display: block;
+    line-height: 33px;
+    margin-top: 17px;
+    font-size: 17px;
+    font-family: arial;
+    color: #9d9d9d;
+}
+
+div#alld {
+    display: block;
+    overflow: hidden;
+    margin-top: 16px;
+    width: 1231px;
+    margin: auto;
+}
+div#brrn {width: 374px;margin-top: 28px;display: block;}
+
+button#furstb {
+    width: 140px;
+    padding: 13px 0px;
+    border: none;
+    color: white;
+    background: linear-gradient(45deg, #ffcd00, #886e00);
+    font-weight: bold;
+}
+button#fursss {
+	width: 90px;
+	padding: 13px 0px;
+	border: none;
+	color: white;
+	background: linear-gradient(45deg, #ffcd00, #886e00);
+	font-weight: bold;
+	margin-left: 12px;
+	}
+	span#onelind {
+    display: block;
+    margin-top: 13px;
+}
+
+
+/*==========================third  pagess all content=============================*/
+
+div#thirdpage {
+    width: 733px;
+    margin-left: 101px;
+    padding-bottom: 54px;
+}
+
+h1#MES {
+    display: block;
+    margin-top: 5px;
+    margin-bottom: 18px;
+    color: #FF5722;
+    font-family: arial;
+}
+
+span#dvs {
+    display: block;
+    line-height: 22px;
+    font-weight: bold;
+    color: #746c6c;
+    margin-top: 17px;
+    margin-bottom: 5px;
+}
+
+div#reld {
+    display: block;
+    background: #ffffff;
+    width: 100%;
+    height: 7px;
+    border-radius: 21px;
+}
+div#thirdpageall {
+    background: whitesmoke;
+    overflow: hidden;
+    display: block;
+    padding-top: 61px;
+    padding-bottom: 36px;
+}
+span#lasd {
+    display: block;
+    width: 33px;
+    float: right;
+}
+div#abdiv {
+    display: block;
+    background: #ff9800b8;
+    height: 7px;
+    margin-top: -7px;
+    border-radius: 21px;
+    width: 33%;
+}
+div#imgs img {
+    width: 100%;
+}
+div#imgs img {
+    width: 100%;
+}
+
+div#imgs {
+    width: 452px;
+    height: 301px;
+    float: right;
+    margin-right: 30px;
+    overflow: inherit;
+    margin-top: -366px;
+    box-shadow: -1px 2px 15px;
+}
+
+/*==========================fourth  pagess all content=============================*/
+div#Firstd {
+    width: 341px;
+    display: inline-block;
+    background: #fbfbfb;
+    text-align: center;
+    height: 111px;
+    margin: 37px 14px;
+    padding-top: 51px;
+    padding-bottom: 19px;
+    padding-left: 18px;
+    padding-right: 18px;
+    border-top-left-radius: 55px;
+    border-bottom-right-radius: 55px;
+    font-family: arial;
+}
+h1#safe {
+    display: block;
+    width: 300px;
+    text-align: center;
+    margin: auto;
+    margin-bottom: 33px;
+    color: #E91E63;
+    margin-top: 59px;
+}
+div#fourthallcontent {
+    background: linear-gradient(#0000004a,#00000047),linear-gradient(#00000059,#0000005e),url(domm.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    display: block;
+    overflow: hidden;
+    padding-bottom: 95px;
+    padding-top: 25px;
+}
+span#dspan {
+    display: block;
+    color: #655e5e;
+    font-size: 16px;
+    font-family: arial;
+    line-height: 21px;
+}
+span#ict {
+    display: block;
+    font-size: 39px;
+    position: absolute;
+    margin-top: -79px;
+    background: #fbfbfb;
+    padding: 17px;
+    margin-left: 112px;
+    width: 65px;
+    color: #E91E63;
+    border-top-right-radius: 39px;
+}
+span#fesw {
+    display: block;
+    color: white;
+    width: 608px;
+    font-size: 19px;
+    margin: auto;
+    margin-bottom: 17px;
+    margin-top: -15px;
+    font-style: oblique;
+}
+/*==========================fifth  pagess all content=============================*/
+
+#fifthpage {
+	    background: linear-gradient(#00000059,#0000004d), linear-gradient(#00000042,#00000000),url(bact.png);
+    background-size: cover;
+    overflow: hidden;
+    background-attachment: fixed;
+    font-family: arial;
+}
+div#allds {
+    width: 1200px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+div#cal {
+    width: 257px;
+    padding: 11px 0px;
+    color: white;
+    font-size: 36px;
+    display: inline-block;
+    padding-left: 35px;
+    overflow: hidden;
+}
+
+span#integer {
+    display: block;
+    width: 75px;
+    margin: auto;
+    text-align: center;
+}
+
+span#stringr {
+    text-align: center;
+    width: 238px;
+    display: block;
+    margin: auto;
+}
+
+/*==========================sixd  pagess all content=============================*/
+
+div#fived img {
+    width: 100%;
+    height: 246px;
+}
+
+div#fived {
+    width: 333px;
+    overflow: hidden;
+    display: inline-block;
+    margin: 0px 26px;
+    background: white;
+}
+
+div#fived {}
+
+div#spans {
+    width: 42px;
+    text-align: center;
+    color: white;
+    color: white;
+    position: absolute;
+    margin-top: -27px;
+}
+
+span#alcon {
+    display: block;
+    width: 100%;
+    background: #4CAF50;
+    padding: 2px 7px;
+}
+
+span#spc {
+    display: block;
+    width: 100%;
+    background: #abd975;
+    padding: 2px 7px;
+}
+span#hds {
+    display: block;
+    margin-top: 25px;
+    font-size: 22px;
+}
+
+span#texs {
+    font-size: 18px;
+    display: block;
+    line-height: 24px;
+    margin-top: 15px;
+    color: #5f8a9f;
+}
+
+span#fots {
+    display: block;
+    font-size: 17px;
+    margin-top: 8px;
+    width: 100px;
+    margin-left: 14px;
+}
+
+
+div#foots {
+    background: #72c176;
+    padding: 12px 0px;
+    color: white;
+    font-size: 19px;
+}
+
+div#allt {
+    width: 307px;
+    margin: auto;
+}
+
+div#foots {}
+
+span#imgsp span {
+}
+
+span#imgsp {
+}
+
+span#adms {
+    margin-left: 7px;
+}
+
+span#cahats {
+    margin-left: 30px;
+}
+
+span#chc {
+    margin-left: 7px;
+    margin-right: 3px;
+}
+
+span#liks {
+    margin-left: 24px;
+    margin-right: 8px;
+}
+div#fffs {
+    width: 243px;
+    margin: auto;
+}div#allfived {
+    width: 1171px;
+    margin: auto;
+}
+
+h1#mubl {
+    width: 71px;
+    margin: auto;
+    text-align: center;
+    margin-top: 64px;
+}
+
+span#lats {
+    width: 200px;
+    text-align: center;
+    margin: auto;
+    display: block;
+    margin-bottom: 36px;
+    margin-top: 10px;
+    color: #4CAF50;
+    font-weight: bold;
+}
+h1#blh {
+    display: block;
+    margin-left: 716px;
+    margin-top: -38px;
+    color: #4CAF50;
+}
+div#mybls {
+    width: 135px;
+    margin: auto;
+    margin-top: 45px;
+    font-size: 35px;
+    font-weight: bold;
+    font-family: arial;
+    margin-bottom: 17px;
+    display: block;
+    overflow: hidden;
+}
+
+span#mbl {
+    display: block;
+    margin-top: -40px;
+    margin-left: 55px;
+    color: #4CAF50;
+}
+div#allsift {
+    background: #f2fafe;
+    overflow: hidden;
+    padding-top: 30px;
+    padding-bottom: 58px;
+}
+
+
+/*==========================Last  pagess all content=============================*/
+
+#alllast{padding-bottom: 200px;}
+input#allinp {
+    display: block;
+    height: 26px;
+    padding: 1px 14px;
+    font-size: 15px;
+    border: none;
+    border-bottom: 1px solid gray;
+    background: black;
+    width: 391px;
+    color: white;
+}
+div#alllast {
+    width: 1199px;
+    margin: auto;
+    margin-top: 54px;
+}
+
+div#allhs {
+    width: 287px;
+    margin: auto;
+    text-align: center;
+}
+
+h1#contm {}
+
+div#allhs h1 {
+    display: inline-block;
+}
+
+h1#contm {
+}
+
+h1#second {
+    margin-left: 7px;
+}
+
+span#feel {}
+
+span#feel {
+    width: 370px;
+    display: block;
+    margin: auto;
+    text-align: center;
+    font-size: 17px;
+    font-family: arial;
+    margin-top: 6px;
+    margin-bottom: 30px;
+} 
+div#allfor {
+    FONT-WEIGHT: 100;
+    width: 455px;
+    float: right;
+    margin-top: 71px;
+    background: black;
+    color: white;
+    padding-left: 42px;
+    padding-top: 15px;
+    padding-bottom: 34px;
+    margin-top: 116px;
+}
+
+div#seconin {
+    width: 490px;
+    float: left;
+}
+
+h1#felfr {
+    display: block;
+    width: 337px;
+    margin-bottom: 36px;
+}
+
+span#helss {
+    display: block;
+    margin-bottom: 16px;
+    color: gray;
+    font-family: arial;
+    line-height: 24px;
+}
+div#allsc span {
+    display: inline-block;
+}
+
+span#icsa {background: black;color: #d8d8d8;padding: 10px 17px;margin-top: 28px;margin-right: 18px;font-size: 19px;}
+
+span#allspans {
+    font-size: 18px;
+    font-family: arial;
+}
+div#allfor {}
+
+span#allins {
+    display: block;
+    width: 149px;
+    margin-top: 15px;
+    margin-bottom: 9px;
+    font-size: 19px;
+    color: #d4d4d4;
+}
+textarea#textar {
+    display: block;
+    width: 326px;
+    background: black;
+    color: white;
+    height: 97px;
+    border: none;
+    border-bottom: 1px solid gray;
+    margin-bottom: 13px;
+    margin-top: 17px;
+    font-size: 16px;
+}
+span#textspan {
+    display: block;
+    margin-top: 19px;
+    margin-bottom: -14px;
+    font-size: 18px;
+}
+footer#fotsael {background: dimgrey;width: 1349px;margin-top: 385px;padding: 18px 0px;text-align: center;}
+
+footer#fotsael span {
+    display: inline-block;
+    font-size: 19px;
+    font-family: arial;
+}
+
+span#biks {
+    color: #efefef;
+}
+input#bittm {
+    width: 86px;
+    padding: 5px 15px;
+    display: block;
+    text-align: center;
+    font-size: 17px;
+    border: 1.5px solid white;
+    background: black;
+    color: white;
+}
